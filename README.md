@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Zarea and I'm a android Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Zarea and I'm an Android Developer, from Egypt</h2>
 
 ###
 
